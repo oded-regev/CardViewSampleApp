@@ -1,6 +1,6 @@
 # CardViewSampleApp
 
-This project is a sample app for using CardView within RecyclerView.
+This project is a sample app for using CardView within RecyclerView. Check out my blog post about this project here: [Android CardView Sample Project (with RecyclerView)](http://www.oded-tech-blog.com/android-cardview-sample-project-recyclerview/).
 
 When I started to implement my own project I was surprised that I couldn't find even one sample project for how to use CardView in an app. 
 
